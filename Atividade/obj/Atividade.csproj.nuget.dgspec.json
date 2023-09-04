@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\senai\\_SENAI\\atividade\\Atividade.csproj": {}
+    "D:\\senai\\_SENAI\\Atividade\\Atividade.csproj": {}
   },
   "projects": {
-    "D:\\senai\\_SENAI\\atividade\\Atividade.csproj": {
+    "D:\\senai\\_SENAI\\Atividade\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\senai\\_SENAI\\atividade\\Atividade.csproj",
+        "projectUniqueName": "D:\\senai\\_SENAI\\Atividade\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "D:\\senai\\_SENAI\\atividade\\Atividade.csproj",
+        "projectPath": "D:\\senai\\_SENAI\\Atividade\\Atividade.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "D:\\senai\\_SENAI\\atividade\\obj\\",
+        "outputPath": "D:\\senai\\_SENAI\\Atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config"
